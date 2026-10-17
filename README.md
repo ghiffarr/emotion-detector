@@ -38,3 +38,7 @@ The example requires network access and an accessible Skills Network endpoint. E
 ## Current scope
 
 The function returns the raw API response. It does not currently parse emotion scores, select a dominant emotion, validate input, set a request timeout, or handle unsuccessful HTTP responses. Those are possible next steps for extending this learning project.
+
+---
+
+[Explore my other projects](https://github.com/ghiffarr#readme)
